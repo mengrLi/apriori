@@ -1,0 +1,72 @@
+****Please input the administrator ID****
+WSTA10000
+****Administrator: WSTA10000****
+
+Please select an option (1,2)
+1. Creatroom.
+2. Deleteroom
+1
+Please input roomnumber
+222
+Please input date
+2017-11-11
+Please add timeslot
+1-2
+you have created successfully
+****Administrator: WSTA10000****
+
+Please select an option (1,2)
+1. Creatroom.
+2. Deleteroom
+1
+Please input roomnumber
+222
+Please input date
+2017-11-11
+Please add timeslot
+2-3
+you have created successfully
+****Administrator: WSTA10000****
+
+Please select an option (1,2)
+1. Creatroom.
+2. Deleteroom
+1
+Please input roomnumber
+222
+Please input date
+2017-11-11
+Please add timeslot
+3-4
+you have created successfully
+****Administrator: WSTA10000****
+
+Please select an option (1,2)
+1. Creatroom.
+2. Deleteroom
+1
+Please input roomnumber
+222
+Please input date
+2017-11-11
+Please add timeslot
+4-5
+you have created successfully
+****Administrator: WSTA10000****
+
+Please select an option (1,2)
+1. Creatroom.
+2. Deleteroom
+1
+Please input roomnumber
+222
+Please input date
+2017-11-11
+Please add timeslot
+5-6
+you have created successfully
+****Administrator: WSTA10000****
+
+Please select an option (1,2)
+1. Creatroom.
+2. Deleteroom
